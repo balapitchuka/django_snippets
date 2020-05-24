@@ -2,6 +2,7 @@ from django.shortcuts import render
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework import status
+from rest_framework.serializers import ErrorDetail
 from custom_handler.serializers import StudentSerializer
 
 # Create your views here.
@@ -20,5 +21,5 @@ class CreateStudentView(APIView):
                 }
             }
             for key, value in student_data.errors.items():
-                response_data["details"][key] = value[0]
+                response_data["details"][key] = " ".join(value)
             return Response(response_data, status=status.HTTP_400_BAD_REQUEST)
