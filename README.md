@@ -1,6 +1,9 @@
 # Django Snippets
 
 
+## Customizing Admin Pages
+
+
 ## Django Multiple Database Management
 
 
