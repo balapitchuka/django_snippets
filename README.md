@@ -1,5 +1,8 @@
 # Django Snippets
 
+## References
+- [Django tests](https://levelup.gitconnected.com/writing-tests-for-a-foolproof-django-project-3c5527bd602d)
+
 
 ## Customizing Admin Pages
 
