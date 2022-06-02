@@ -9,6 +9,7 @@
 
 ### CI/CD
 - [Setting up a simple CI/CD with Django and Gitlab](https://medium.com/dev-genius/setting-up-a-simple-ci-cd-with-django-and-gitlab-80ac3492638c)
+- [Setting up a simple CI/CD with Django, Gitea, Jenkins, and of course, Docker!](https://medium.com/dev-genius/setting-up-a-simple-ci-cd-with-django-gitea-jenkins-and-of-course-docker-ab883972efb5)
 
 ## Customizing Admin Pages
 
