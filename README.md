@@ -1,6 +1,8 @@
 # Django Snippets
 
 ## References
+## Deployment
+- [Deploying a Django application to Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html)
 ### Testing
 - [Django tests](https://levelup.gitconnected.com/writing-tests-for-a-foolproof-django-project-3c5527bd602d)
 - [Django testing best practices](https://medium.com/@luccascorrea/best-practices-and-tips-for-writing-unit-tests-for-django-applications-6701a24c8160)
